@@ -1,5 +1,5 @@
- <!-- Footer -->
- <!-- Enquiry Modal -->
+<!-- Footer -->
+<!-- Enquiry Modal -->
 <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -42,7 +42,7 @@
         const email = document.getElementById("email").value.trim();
         const message = document.getElementById("message").value.trim();
 
-        const phoneNumber = "918319142093";
+        const phoneNumber = "917373820002";
 
         // Create WhatsApp message
         const whatsappMessage = `*New Enquiry Received*%0A%0A*Name:* ${encodeURIComponent(name)}%0A*Email:* ${encodeURIComponent(email)}%0A*Message:* ${encodeURIComponent(message)}`;
@@ -71,17 +71,11 @@
         var subject = document.getElementById("subject").value.trim();
         var message = document.getElementById("message").value.trim();
 
-        // Validate (optional)
-        if (!name || !email || !message) {
-            alert("Please fill in all required fields.");
-            return;
-        }
-
         // Create WhatsApp message
         var fullMessage = `Name: ${name}%0AEmail: ${email}%0ASubject: ${subject}%0AMessage: ${message}`;
 
         // Replace with your WhatsApp number (in international format, no "+" or dashes)
-        var phoneNumber = "918319142093";
+        var phoneNumber = "917373820002";
 
         // Open WhatsApp chat
         var whatsappURL = `https://wa.me/${phoneNumber}?text=${fullMessage}`;
@@ -89,43 +83,43 @@
     }
 </script>
 
-
 <!-- Footer Start -->
 <div class="container-fluid bg-dark text-light mt-5 py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container pt-5">
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
                 <h3 class="text-white mb-4">MANNUYIR ORGANICS AGRO INDUSTRIES
-</h3>
+                </h3>
                 <div class="d-flex flex-column justify-content-start">
-                   <p>Mannuyir Organics – Delivering pure, natural, and premium-quality Organic Mannuyir for healthy, flavorful, and sustainable cooking.</p>
-
+                    <p>Mannuyir Organics – Delivering pure, natural, and premium-quality Organic Mannuyir for healthy,
+                        flavorful, and sustainable cooking.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h3 class="text-white mb-4">Popular Links</h3>
                 <div class="d-flex flex-column justify-content-start">
-                    <a class="text-light mb-2" href="index.html"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                    <a class="text-light mb-2" href="about.html"><i class="bi bi-arrow-right text-primary me-2"></i>About
+                    <a class="text-light mb-2" href="index.php"><i
+                            class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                    <a class="text-light mb-2" href="about.php"><i class="bi bi-arrow-right text-primary me-2"></i>About
                         Us</a>
-                    <a class="text-light mb-2" href="service.html"><i class="bi bi-arrow-right text-primary me-2"></i>Our
+                    <a class="text-light mb-2" href="service.php"><i class="bi bi-arrow-right text-primary me-2"></i>Our
                         Services</a>
-                    <a class="text-light" href="contact.html"><i class="bi bi-arrow-right text-primary me-2"></i>Contact
+                    <a class="text-light" href="contact.php"><i class="bi bi-arrow-right text-primary me-2"></i>Contact
                         Us</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h3 class="text-white mb-4">Get In Touch</h3>
                 <p class="mb-2">
-                    <i class="bi bi-geo-alt text-primary me-2"></i>43/1-A, Kallikadu North Street Omalur, Salem-636455, Tamil Nadu, India
+                    <i class="bi bi-geo-alt text-primary me-2"></i>43/1-A, KALLIKADU, OMALUR, SALEM - 636455, Tamil
+                    Nadu, India
 
                 </p>
                 <p class="mb-2">
                     <i class="bi bi-envelope-open text-primary me-2"></i> mannuyirorganics@gmail.com
-
                 </p>
                 <p class="mb-0">
-                    <i class="bi bi-telephone text-primary me-2"></i>+91  7373820002
+                    <i class="bi bi-telephone text-primary me-2"></i>+91 7373820002
                 </p>
             </div>
             <div class="col-lg-3 col-md-6">
