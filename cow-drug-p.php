@@ -62,7 +62,7 @@
                 <h2 class="mb-4">Cow dung powder</h2>
                 <p class="mb-4">
                     Cow dung powder is a traditional organic farming input made from sun-dried and finely ground cow
-                    manure. At Mannuyir Organics, we ensure the dung is collected from healthy, organically-fed cows and
+                    manure. At Manure Organics, we ensure the dung is collected from healthy, organically-fed cows and
                     processed without any chemical additives. This powder is rich in essential nutrients like nitrogen,
                     phosphorus, and potassium that help improve soil fertility, support microbial growth, and stimulate
                     healthy crop development. It is ideal for use in kitchen gardens, organic farms, and eco-friendly

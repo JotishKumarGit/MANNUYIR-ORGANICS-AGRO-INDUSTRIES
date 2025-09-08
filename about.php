@@ -104,11 +104,11 @@
             </h1>
           </div>
           <h4 class="text-body fst-italic mb-4">
-            Sustainable farming, organic care, and natural wellness – that’s the promise of Mannuyir.
+            Sustainable farming, organic care, and natural wellness – that’s the promise of Manure.
           </h4>
           <p class="mb-4">
-            At <strong>Mannuyir Organics & Agro Industries</strong>, we are committed to bringing the finest
-            organic products to your table. Our flagship product, <strong>Organic Mannuyir</strong>, is
+            At <strong>Manure Organics & Agro Industries</strong>, we are committed to bringing the finest
+            organic products to your table. Our flagship product, <strong>Organic Manure</strong>, is
             cultivated
             with care, following natural and sustainable farming practices that protect both health and the
             environment.
@@ -116,7 +116,7 @@
             in quality,
             nutrition, and trust.
             <br /><br />
-            With a vision to promote healthier lifestyles and sustainable agriculture, Mannuyir Organics
+            With a vision to promote healthier lifestyles and sustainable agriculture, ManureOrganics
             bridges the gap
             between traditional farming wisdom and modern organic standards. From our fields to your homes,
             we deliver
@@ -163,7 +163,7 @@
                 <h4 class="text-danger">Our Mission</h4>
                 <p>
                   To provide households and businesses with pure, organic, and
-                  sustainably sourced Mannuyir. We aim to promote healthy
+                  sustainably sourced Manure. We aim to promote healthy
                   living, authentic flavors, and support local farmers through
                   ethical practices.
                 </p>
@@ -183,7 +183,7 @@
                 <h4 class="text-danger">Our Vision</h4>
                 <p>
                   To become a trusted name in organic agriculture by
-                  consistently delivering high-quality Mannuyir, fostering
+                  consistently delivering high-quality Manure, fostering
                   sustainable farming, and empowering communities with
                   innovative and eco-friendly solutions.
                 </p>

@@ -63,11 +63,11 @@
       <div class="col-lg-6">
         <h2 class="mb-4">Organic Manure</h2>
         <p class="mb-4">
-          Organic Mannuyir is a premium, nutrient-rich grain sourced from
-          sustainable farms. At Mannuyir Organics, we ensure that every batch
+          Organic Manure is a premium, nutrient-rich grain sourced from
+          sustainable farms. At Manure Organics, we ensure that every batch
           is naturally grown, carefully harvested, and hygienically packed to
           preserve its purity and health benefits. Enhance your meals with the
-          wholesome goodness of our organic Mannuyir.
+          wholesome goodness of our organic Manure.
         </p>
         <ul class="list-unstyled mb-4">
           <li>

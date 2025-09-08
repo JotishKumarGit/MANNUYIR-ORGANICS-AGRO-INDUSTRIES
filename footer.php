@@ -91,7 +91,7 @@
                 <h3 class="text-white mb-4">MANNUYIR ORGANICS AGRO INDUSTRIES
                 </h3>
                 <div class="d-flex flex-column justify-content-start">
-                    <p>Mannuyir Organics – Delivering pure, natural, and premium-quality Organic Mannuyir for healthy,
+                    <p>Manure Organics – Delivering pure, natural, and premium-quality Organic Manure for healthy,
                         flavorful, and sustainable cooking.</p>
                 </div>
             </div>

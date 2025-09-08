@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>MANNUYIR ORGANICS AGRO INDUSTRIES
+    <title>Mannuyir ORGANICS AGRO INDUSTRIES
 
     </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
@@ -58,15 +58,14 @@
 
                 <!-- Slide 1 -->
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/mannuyir.jpeg" alt="Mannuyir Organic Spices"
-                        style="object-fit: cover;" />
+                    <img class="w-100" src="img/mannuyir.jpeg" alt="ManureOrganic Spices" style="object-fit: cover;" />
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px">
                             <h5 class="text-white text-uppercase animated bounceInDown">
                                 100% Natural & Organic
                             </h5>
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">
-                                Mannuyir – Pure, Natural & Sustainable Products
+                                Manure– Pure, Natural & Sustainable Products
                             </h1>
                             <a href="#quote" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get a
                                 Quote</a>
@@ -98,14 +97,14 @@
 
                 <!-- Slide 3 -->
                 <div class="carousel-item">
-                    <img class="w-100" src="img/mannuyir3.jpeg" alt="Mannuyir Cloves" />
+                    <img class="w-100" src="img/mannuyir3.jpeg" alt="ManureCloves" />
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px">
                             <h5 class="text-white text-uppercase animated bounceInDown">
                                 From Farm to Table
                             </h5>
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">
-                                Experience the Purity of Mannuyir Organics
+                                Experience the Purity of Manure Organics
                             </h1>
                             <a href="#about" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Know
                                 More</a>
@@ -146,15 +145,15 @@
                             About Us
                         </h5>
                         <h1 class="display-5 mb-0">
-                           Organics & Agro Industries – Nurturing Nature, Delivering Purity
+                            Organics & Agro Industries – Nurturing Nature, Delivering Purity
                         </h1>
                     </div>
                     <h4 class="text-body fst-italic mb-4">
-                        Sustainable farming, organic care, and natural wellness – that’s the promise of Mannuyir.
+                        Sustainable farming, organic care, and natural wellness – that’s the promise of Manure.
                     </h4>
                     <p class="mb-4">
-                        At <strong>Mannuyir Organics & Agro Industries</strong>, we are committed to bringing the finest
-                        organic products to your table. Our flagship product, <strong>Organic Mannuyir</strong>, is
+                        At <strong>Manure Organics & Agro Industries</strong>, we are committed to bringing the finest
+                        organic products to your table. Our flagship product, <strong>Organic Manure</strong>, is
                         cultivated
                         with care, following natural and sustainable farming practices that protect both health and the
                         environment.
@@ -162,7 +161,7 @@
                         in quality,
                         nutrition, and trust.
                         <br /><br />
-                        With a vision to promote healthier lifestyles and sustainable agriculture, Mannuyir Organics
+                        With a vision to promote healthier lifestyles and sustainable agriculture, ManureOrganics
                         bridges the gap
                         between traditional farming wisdom and modern organic standards. From our fields to your homes,
                         we deliver
@@ -206,13 +205,14 @@
             flex-direction: column;
         }
     </style>
+
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container justify-content-center">
             <div class="text-center mx-auto mb-5" style="max-width: 600px">
                 <h5 class="text-primary text-uppercase" style="letter-spacing: 5px">
                     Services
                 </h5>
-                <h1 class="display-5 mb-0">Our Commitment at Mannuyir Organics</h1>
+                <h1 class="display-5 mb-0">Our Commitment at Manure Organics</h1>
             </div>
             <div class="row g-5 justify-content-center">
 
@@ -224,7 +224,7 @@
                             <h3 class="mb-3">Eco-Friendly Packaging</h3>
                             <p>
                                 We provide safe, sustainable, and customizable packaging solutions that maintain the
-                                freshness of Organic Mannuyir products.
+                                freshness of Organic Manureproducts.
                             </p>
                             <a href="#">Read More<i class="bi bi-arrow-right ms-2"></i></a>
                         </div>
@@ -238,7 +238,7 @@
                             <h5 class="text-primary mb-0">Service</h5>
                             <h3 class="mb-3">Wholesale Supply</h3>
                             <p>
-                                Supplying Organic Mannuyir in bulk to retailers, distributors, and partners with
+                                Supplying Organic Manurein bulk to retailers, distributors, and partners with
                                 reliable quality and consistency.
                             </p>
                             <a href="#">Read More<i class="bi bi-arrow-right ms-2"></i></a>
@@ -290,7 +290,7 @@
             </div>
             <div class="row justify-content-center">
 
-                <!-- Product: Organic Mannuyir -->
+                <!-- Product: Organic Manure-->
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="card border border-primary h-100 shadow-sm"
                         style="border-radius: 20px; overflow: hidden;">
@@ -300,8 +300,7 @@
                             <h5 class="card-title text-primary">Organic Manure</h5>
                             <div class="d-flex justify-content-center gap-2">
                                 <a href="tel:+91 8319142093"
-                                    style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;"
-                                   >Enquiry</a>
+                                    style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;">Enquiry</a>
                                 <a href="mannuyir.php"
                                     style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;">Details</a>
                             </div>
@@ -318,8 +317,7 @@
                             <h5 class="card-title text-primary">Organic Pallettes</h5>
                             <div class="d-flex justify-content-center gap-2">
                                 <a href="tel:+91 8319142093"
-                                    style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;"
-                                   >Enquiry</a>
+                                    style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;">Enquiry</a>
                                 <a href="pallettes.php"
                                     style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;">Details</a>
                             </div>
@@ -336,8 +334,7 @@
                             <h5 class="card-title text-primary">Cow dung powder</h5>
                             <div class="d-flex justify-content-center gap-2">
                                 <a href="tel:+91 8319142093"
-                                    style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;"
-                                   >Enquiry</a>
+                                    style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;">Enquiry</a>
                                 <a href="cow-drug-p.php"
                                     style="color: #0d6efd; border: 1px solid #0d6efd; padding: 6px 12px; border-radius: 5px; text-decoration: none;">Details</a>
                             </div>
@@ -360,11 +357,11 @@
                             Special Offer
                         </h5>
                         <h1 class="display-5 text-white">
-                            Celebrate Wellness – Get 20% Off on Your First Order of Organic manure                        </h1>
+                            Celebrate Wellness – Get 20% Off on Your First Order of Organic manure </h1>
                     </div>
                     <p class="text-white mb-4">
-                        Bring the purity of nature into your home with Mannuyir Organics. Enjoy naturally grown,
-                        premium-quality Organic Mannuyir for flavor, health, and wellness.
+                        Bring the purity of nature into your home with Manure Organics. Enjoy naturally grown,
+                        premium-quality Organic Manurefor flavor, health, and wellness.
                     </p>
                     <a href=" " data-bs-toggle='modal' data-bs-target='#enquiryModal'
                         class="btn btn-primary py-md-3 px-md-5 me-3">Enquiry Now</a>
@@ -382,7 +379,7 @@
                 <h5 class="text-primary text-uppercase" style="letter-spacing: 5px">
                     Testimonial
                 </h5>
-                <h1 class="display-5 mb-0">What People Say About Organic Mannuyir</h1>
+                <h1 class="display-5 mb-0">What People Say About Organic Manure</h1>
             </div>
             <div class="owl-carousel testimonial-carousel">
 
@@ -391,7 +388,7 @@
                         style="width: 100px; height: 100px; object-fit: cover;" />
                     <div class="testimonial-text bg-light rounded p-4 mt-n5">
                         <p class="mt-5">
-                            "Organic Mannuyir from Mannuyir Organics is incredibly fresh and pure! It adds natural
+                            "Organic Manure from Manure Organics is incredibly fresh and pure! It adds natural
                             flavor and wellness to my daily meals."
                         </p>
                         <h4 class="text-truncate">Anjali Sharma, Delhi</h4>
@@ -404,8 +401,8 @@
                         style="width: 100px; height: 100px; object-fit: cover;" />
                     <div class="testimonial-text bg-light rounded p-4 mt-n5">
                         <p class="mt-5">
-                            "As a restaurant owner, I rely on Mannuyir Organics for consistently high-quality, organic
-                            products. Their Organic Mannuyir adds authentic flavor to every dish."
+                            "As a restaurant owner, I rely on Manure Organics for consistently high-quality, organic
+                            products. Their Organic Manureadds authentic flavor to every dish."
                         </p>
                         <h4 class="text-truncate">Ramesh Kumar, Mumbai</h4>
                         <i>Organic Restaurant Chef</i>
@@ -417,7 +414,7 @@
                         style="width: 100px; height: 100px; object-fit: cover;" />
                     <div class="testimonial-text bg-light rounded p-4 mt-n5">
                         <p class="mt-5">
-                            "I include Organic Mannuyir in my wellness routine daily. It’s pure, natural, and enhances
+                            "I include Organic Manurein my wellness routine daily. It’s pure, natural, and enhances
                             both flavor and nutrition."
                         </p>
                         <h4 class="text-truncate">Priya Desai, Bangalore</h4>
@@ -430,7 +427,7 @@
                         style="width: 100px; height: 100px; object-fit: cover;" />
                     <div class="testimonial-text bg-light rounded p-4 mt-n5">
                         <p class="mt-5">
-                            "I recommend Mannuyir Organics products to all my clients. Organic Mannuyir is pure,
+                            "I recommend Manure Organics products to all my clients. Organic Manureis pure,
                             natural, and full of health benefits — perfect for a balanced diet."
                         </p>
                         <h4 class="text-truncate">Suresh Rao, Chennai</h4>
@@ -450,15 +447,14 @@
                 <h5 class="text-primary text-uppercase" style="letter-spacing: 5px">
                     Blog Post
                 </h5>
-                <h1 class="display-5 mb-0">Latest Insights from Mannuyir Organics</h1>
+                <h1 class="display-5 mb-0">Latest Insights from Manure Organics</h1>
             </div>
             <div class="row g-5">
                 <!-- Blog Post 1 -->
                 <div class="col-lg-6 wow slideInUp" data-wow-delay="0.3s">
                     <div class="blog-item">
                         <div class="position-relative">
-                            <img class="img-fluid w-100 rounded-top" src="img/blog1.jpg"
-                                alt="Organic Mannuyir Benefits" />
+                            <img class="img-fluid w-100 rounded-top" src="img/blog1.jpg" alt="Organic ManureBenefits" />
                             <div class="blog-date">
                                 <h5 class="text-white fw-bold mb-0">10</h5>
                                 <h6 class="text-light mb-0">September</h6>
@@ -471,7 +467,7 @@
                                 <span class="text-light text-uppercase">Wellness</span>
                             </div>
                             <a class="h3 m-0 text-white" href="#">
-                                5 Health Benefits of Organic Mannuyir You Should Know
+                                5 Health Benefits of Organic Manure You Should Know
                             </a>
                         </div>
                     </div>
@@ -494,7 +490,7 @@
                                 <span class="text-light text-uppercase">Organic Living</span>
                             </div>
                             <a class="h3 m-0 text-white" href="#">
-                                How to Use Organic Mannuyir in Daily Cooking for Maximum Health Benefits
+                                How to Use Organic Manurein Daily Cooking for Maximum Health Benefits
                             </a>
                         </div>
                     </div>
@@ -594,4 +590,3 @@
 
     <!-- Footer -->
     <?php include('footer.php') ?>
-    
