@@ -21,7 +21,7 @@
                 </div>
             </div>
             <a href="contact.php" class="nav-item nav-link">Contact</a>
-            <a href="tel:+91 8319142093"
+            <a href="tel:+91  7373820002"
                 class="nav-item nav-link nav-contact bg-secondary text-white px-5 ms-lg-5">Enquiry</i></a>
         </div>
     </div>
